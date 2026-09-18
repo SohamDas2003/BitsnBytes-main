@@ -450,7 +450,7 @@ export const SITE_CONFIG = {
   navigation: {
     main: [
       { name: "Services", href: "#services" },
-      { name: "Locations", href: "#locations" },
+      // { name: "Locations", href: "#locations" },
       { name: "Case Studies", href: "#case-studies" },
       { name: "About", href: "#about" },
       { name: "FAQ", href: "#faq" },
