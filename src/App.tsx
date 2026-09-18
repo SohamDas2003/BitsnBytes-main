@@ -6,7 +6,7 @@
 import React, { useState } from 'react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
-import { ServingLocationsSection } from './components/ServingLocationsSection';
+// import { ServingLocationsSection } from './components/ServingLocationsSection';
 import { ServicesSection } from './components/ServicesSection';
 import { CaseStudiesSection } from './components/CaseStudiesSection';
 import { AboutSection } from './components/AboutSection';
@@ -47,7 +47,7 @@ export default function App() {
         />
 
         {/* 2. Cities Served Across India */}
-        <ServingLocationsSection />
+        {/* <ServingLocationsSection /> */}
 
         {/* 3. Core Full-Funnel Services Portfolio */}
         <ServicesSection
